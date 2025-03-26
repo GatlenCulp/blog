@@ -1,4 +1,12 @@
-# [ARTICLE] Communal Living & Property: Systems for Marking Ownership, Lost & Found, and Purging Abandoned Items
+---
+title: Communal Living & Property
+description: Systems for Marking Ownership, Lost & Found, and Purging Abandoned Items
+draft: true
+lang: en
+date: 2025-03-26
+---
+
+# Communal Living & Property: Systems for Marking Ownership, Lost & Found, and Purging Abandoned Items
 
 After spending four years in various communal living arrangements – from college dorms to organized independent student living groups of 28 people, to smaller apartment settings with around 8 people – I've gained significant insight into the logistics of shared living spaces. One of the most crucial aspects of maintaining harmony in these environments is having clear systems for managing private and communal property. In this article, I'll share a comprehensive approach that has worked well in my current living situation, which you might consider adapting for your own communal space.
 
