@@ -4,12 +4,12 @@
   "private": true,
   "version": "4.4.1",
   "type": "module",
-  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
+  "author": "GatlenCulp <gatlenculp@gmail.com>",
   "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "homepage": "https://gatlen.me",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git"
+    "url": "https://github.com/GatlenCulp/blog.git"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
