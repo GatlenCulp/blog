@@ -20,7 +20,7 @@ The foundation of our property management system is remarkably simple: each resi
 
 There are, however, some clever exceptions to this rule. In our house, items in the communal pantry or on designated communal shelves are considered shared regardless of any stickers. This prevents the awkward situation of having to navigate around privately claimed items in obviously communal spaces while still allowing residents to track their contributions.
 
-![Teahouse ownership](./communal-living/teahouse-ownership.png)
+![Teahouse ownership](static/communal-living/teahouse-ownership.png)
 
 Teahouse ownership
 
@@ -36,15 +36,15 @@ Sometimes, more aggressive decluttering is needed, which is where our purge syst
 
 The purge system is particularly useful for addressing items that are technically claimed but haven't been used in ages, or communal items that have outlived their usefulness. By using masking tape instead of immediately removing items, it creates a buffer period for discussion and consideration.
 
-![Items marked for purging w/ masking tape](./communal-living/stickered-items.png)
+![Items marked for purging w/ masking tape](static/communal-living/stickered-items.png)
 
 Items marked for purging w/ masking tape
 
-![Collected purge items prior to disposal or donation](./communal-living/lost-and-found.png)
+![Collected purge items prior to disposal or donation](static/communal-living/lost-and-found.png)
 
 Collected purge items prior to disposal or donation
 
-![Lost & Found + Purge Diagram](./communal-living/lost-found-purge.png)
+![Lost & Found + Purge Diagram](static/communal-living/lost-found-purge.png)
 
 Lost & Found + Purge Diagram
 
