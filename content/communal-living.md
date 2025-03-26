@@ -6,8 +6,6 @@ lang: en
 date: 2025-03-26
 ---
 
-# Communal Living & Property: Systems for Marking Ownership, Lost & Found, and Purging Abandoned Items
-
 After spending four years in various communal living arrangements – from college dorms to organized independent student living groups of 28 people, to smaller apartment settings with around 8 people – I've gained significant insight into the logistics of shared living spaces. One of the most crucial aspects of maintaining harmony in these environments is having clear systems for managing private and communal property. In this article, I'll share a comprehensive approach that has worked well in my current living situation, which you might consider adapting for your own communal space.
 
 ## The Challenge of Shared Spaces
@@ -22,7 +20,7 @@ The foundation of our property management system is remarkably simple: each resi
 
 There are, however, some clever exceptions to this rule. In our house, items in the communal pantry or on designated communal shelves are considered shared regardless of any stickers. This prevents the awkward situation of having to navigate around privately claimed items in obviously communal spaces while still allowing residents to track their contributions.
 
-![Teahouse ownership](%5BARTICLE%5D%20Communal%20Living%20&%20Property%20Systems%20for%20M%20180803bca41980afbea8e3ef801860a6/teahouse-ownership.png)
+![Teahouse ownership](./communal-living/teahouse-ownership.png)
 
 Teahouse ownership
 
@@ -38,15 +36,15 @@ Sometimes, more aggressive decluttering is needed, which is where our purge syst
 
 The purge system is particularly useful for addressing items that are technically claimed but haven't been used in ages, or communal items that have outlived their usefulness. By using masking tape instead of immediately removing items, it creates a buffer period for discussion and consideration.
 
-![Items marked for purging w/ masking tape](%5BARTICLE%5D%20Communal%20Living%20&%20Property%20Systems%20for%20M%20180803bca41980afbea8e3ef801860a6/d732d9a6-a8ba-4e7a-a653-2b957ae39446.png)
+![Items marked for purging w/ masking tape](./communal-living/stickered-items.png)
 
 Items marked for purging w/ masking tape
 
-![Collected purge items prior to disposal or donation](%5BARTICLE%5D%20Communal%20Living%20&%20Property%20Systems%20for%20M%20180803bca41980afbea8e3ef801860a6/image.png)
+![Collected purge items prior to disposal or donation](./communal-living/lost-and-found.png)
 
 Collected purge items prior to disposal or donation
 
-![Lost & Found + Purge Diagram](%5BARTICLE%5D%20Communal%20Living%20&%20Property%20Systems%20for%20M%20180803bca41980afbea8e3ef801860a6/Lost_and_Found__Purge_Diagram.png)
+![Lost & Found + Purge Diagram](./communal-living/lost-found-purge.png)
 
 Lost & Found + Purge Diagram
 

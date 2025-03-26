@@ -15,3 +15,6 @@ I anticipate the topics of blog may include:
 - Artificial Intelligence
 - Policy
 - _More_
+
+
+More composed blog posts can be found [here](https://medium.com/@gatlenculp) and some of my more detailed book reviews on goodreads
