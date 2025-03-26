@@ -1,7 +1,7 @@
 ---
 title: Communal Living & Property
 description: Systems for Marking Ownership, Lost & Found, and Purging Abandoned Items
-draft: true
+draft: false
 lang: en
 date: 2025-03-26
 ---
