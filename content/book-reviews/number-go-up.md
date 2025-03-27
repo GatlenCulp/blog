@@ -1,0 +1,17 @@
+---
+title: Number Go Up
+draft: false
+lang: en
+date: 2025-03-26
+---
+
+Number Go Up: Inside Crypto's Wild Rise and Staggering Fall
+by Zeke Faux
+
+⭐️⭐️⭐️⭐️⭐️
+
+Faux’s book is a boots-on-the ground investigative reporting reads like a film noir that’s incredibly entertaining. The style really fits the story — giving insights into the personalities that propped up the crypto bubble hype and the disjoint between talk and reality. The book tells many stories — the pig butchering scams and human trafficking that crypto supports, the big CEOs like SBF, the crypto hype bros that were bought on the vision, the crypto hype bros that new it was a bubble and were trying to make money off of it, newly made millionaires, politicians that used crypto for clout, the engineers that spawned crypto, the black market, law enforcement, poor workers that played video games and exchanged real money to earn crypto only for it to crash, and so much more. Apart from the a few over-simplified dumb cryptobros and failure to explain the technical uniqueness of the blockchain (which is described as a “spreadsheet”), Faux approaches both the people and the topic with a lot of nuance and you find yourself asking the same questions he is as you go.
+
+After reading this book, I realize that understanding the personalities that underly the market bubble is essential to understanding how so many people thought it would keep increasing in value for all time despite it obviously being a bubble “number go up”. For the longest time, I thought that I — a very technically minded MIT student in computer science and economics — didn’t understand some very crucial part of either the technology or the economics behind it. I understood blockchain and cryptocurrency from a high level and at least understood that blockchain was a useful but not revolutionary technology and didn’t understand why cryptocurrency was held in such reverence. After reading this book, I was a bit relieved that it seemed after 5+(?) years of investigative reporting, Faux also didn’t fully understand it and constantly felt like he was missing something despite being a literal Bloomberg investigative reporter with a history of investigating financial cases. While Faux obviously isn’t the final say and I recognize that confirmation bias might be at play here — this book did give more credence to my first impression that there isn’t much in the way of real value in crypto, and it appears to have been a kind of market bubble propped up by an internet-fueled hype culture and Ponzi-like, insolvent, risky, and non-transparent financial firms. These firms used obfuscation to manipulate customers in a largely unregulated financial sector AND benefitted from dirty money coming from scams, human trafficking, and the black market in the same way established global financial institutions did through intentional blindness in financial centers in the Cayman Islands, Bahamas, Switzerland, London, etc. While I’m not ruling out the fact that maybe there is something large to cryptocurrency, I think it is unlikely. And while the title says “the fall of crypto”, I don’t believe crypto’s future has ended, but I am not sure where it is going.
+
+Note: Listened to as an audiobook, I don’t believe any quality was lost in doing so.
