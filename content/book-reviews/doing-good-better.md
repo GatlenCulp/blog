@@ -5,7 +5,6 @@ lang: en
 date: 2025-03-26
 ---
 
-
 Doing Good Better: How Effective Altruism Can Help You Make a Difference
 
 by William MacAskill
