@@ -44,6 +44,8 @@ Items marked for purging w/ masking tape
 
 Collected purge items prior to disposal or donation
 
+_Important Note: The mutli-level lost and found system was deemed by my house of around 7 people to be too complicated. Larger living groups may benefit from this system. Instead, the item jumps straight to being in the living room for one week. Same process follows from that node._
+
 ![Lost & Found + Purge Diagram](static/communal-living/lost-found-purge.png)
 
 Lost & Found + Purge Diagram

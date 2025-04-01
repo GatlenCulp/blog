@@ -1,0 +1,11 @@
+---
+description: 
+globs: content/*.md
+alwaysApply: false
+---
+
+# Formatting a Post
+
+Follow your other formatting rules -- for KaTeX math, headers, etc. Also be sure to follow the sanitation rule.
+
+To format a post, be sure NOT to change any of the original content. Line breaks, list-nesting, headers, meta-data, and more may be changed, added, or removed. Do not remove notes to self, TODOs, etc. Do not rephrase anything. Do not remove links to pictures.

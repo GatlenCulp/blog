@@ -1,0 +1,66 @@
+---
+description: 
+globs: content/*.md
+alwaysApply: false
+---
+# Sanitize Explicit or Private Information
+
+This document is meant to be posted online and thus should follow professional standards while maintaining an authentic voice. While this is my personal blog where conversational speech, some mild cussing, and informality are warranted, I still need to maintain my reputation and potential career prospects, which might mean removing information that could be harmful to my career, especially in government roles. This involves filtering content that I might share with friends but wouldn't want prospective employers to see and use to make assumptions about my character.
+
+## Core Guidelines
+
+1. **Language Moderation**
+   - Acceptable: Mild profanity in context ("This is damn interesting", "What the hell is going on?")
+   - Acceptable: Occasional stronger terms when discussing frustration ("Bruh what the fuck is decision theory")
+   - Unacceptable: Extreme vulgarity, slurs, sexually explicit language, or aggressive profanity directed at people
+   
+2. **Political Content**
+   - Flag any content that expresses strong political opinions
+   - Avoid partisan language or extreme positions on controversial topics
+
+3. **Professional Boundaries**
+   - Avoid overly personal stories that might reflect poorly in professional contexts
+   - Maintain appropriate boundaries when discussing workplace experiences
+   - Be cautious about criticizing specific organizations, employers, or educational institutions
+
+4. **Potentially Sensitive Topics**
+   - Flag discussions about:
+     - Recreational drug use
+     - Excessive alcohol consumption
+     - Religious critiques
+     - Inflammatory social commentary
+     - Mental health struggles (unless presented constructively)
+
+5. **Contextual Awareness**
+   - Consider how content might be interpreted without its original context
+   - Avoid inside jokes or references that could be misinterpreted by readers
+   - Be mindful of cultural sensitivities and global perspectives
+
+## Examples
+
+### Acceptable Content
+- "I spent hours debugging this AI model and it's still acting stupid, LMAO"
+- "The ethical implications of this decision theory are fascinating but confusing as hell"
+- "Academia can be frustrating when papers contradict each other"
+- "I disagree with the approach taken by this framework"
+
+### Content Requiring Revision 
+- ❌ "This professor is an absolute idiot who doesn't understand basic concepts"
+- ✅ "I found this lecture challenging as it seemed to contradict established principles"
+
+- ❌ "Got wasted last weekend and barely remembered our ML discussion"
+- ✅ "Had an interesting ML discussion during a social gathering last weekend"
+
+- ❌ "All conservative/liberal approaches to AI ethics are fundamentally flawed"
+- ✅ "There are various perspectives on AI ethics across the political spectrum"
+
+## Process for Flagging Content
+
+When encountering potentially problematic content, flag it with:
+```markdown
+<!-- CONTENT FLAG: Brief description of concern -->
+This is the potentially problematic content
+<!-- END CONTENT FLAG -->
+```
+
+This allows for easy identification and revision during editing while preserving the original thought.

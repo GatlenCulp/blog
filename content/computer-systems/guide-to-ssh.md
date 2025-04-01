@@ -5,4 +5,6 @@ lang: en
 date: 2025-03-26
 ---
 
-View this article on Medium [here](https://gatlenculp.medium.com/a-practical-guide-to-ssh-7dece875a41a)
+View this article on Medium [here](https://gatlenculp.medium.com/a-practical-guide-to-ssh-7dece875a41a).
+
+Video available [here](https://youtu.be/PQlRP115ND0)
