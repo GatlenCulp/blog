@@ -1,6 +1,6 @@
 ---
 title: Existentialism (SEP)
-draft: true
+draft: false
 lang: en
 date: 2025-03-26
 ---

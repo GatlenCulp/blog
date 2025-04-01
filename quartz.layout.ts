@@ -5,11 +5,21 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: "giscus",
+      options: {
+        repo: "GatlenCulp/blog",
+        repoId: "R_kgDOOJAVtQ",
+        category: "Announcements",
+        categoryId: "DIC_kwDOOJAVtc4Cor00"
+      },
+    })
+  ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/GatlenCulp/blog",
+      Website: "https://gatlen.me"
     },
   }),
 }
@@ -17,7 +27,9 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.Breadcrumbs(),
+    Component.Breadcrumbs({
+      rootName: "🏠",
+    }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
