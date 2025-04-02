@@ -22,7 +22,7 @@ lint:
     - markdown-table-prettify@3.6.0
     - markdown-link-check@3.13.7
     - actionlint@1.7.7
-    - checkov@3.2.394
+    - checkov@3.2.395
     - git-diff-check
     - hadolint@2.12.1-beta
     - markdownlint@0.44.0

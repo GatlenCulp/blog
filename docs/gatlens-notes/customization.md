@@ -14,7 +14,7 @@ This is me going from the very top of [the guide](https://quartz.jzhao.xyz/) dow
 - [ ] Breadcrumbs
 - [ ] Callouts
 - [ ] Citations
-- [ ] Comments
+- [X] Comments (Not to the fullest extent)
 - [ ] Darkmode
 - [ ] Docker Support
 - [ ] Explorer

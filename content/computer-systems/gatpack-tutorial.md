@@ -1,5 +1,5 @@
 ---
-title: A Practical Guide to SSH
+title: GatPack Tutorial
 draft: false
 lang: en
 date: 2025-03-26
