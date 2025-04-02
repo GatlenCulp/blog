@@ -1,7 +1,6 @@
 ---
 title: Consequentialism (SEP)
 draft: false
-lang: en
 date: 2025-03-26
 ---
 
