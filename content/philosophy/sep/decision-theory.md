@@ -3,6 +3,13 @@ title: Decision Theory
 draft: false
 lang: en
 date: 2025-03-26
+tags:
+  - decision-theory
+  - rationality
+  - probability
+  - utility
+  - expected-utility
+  - philosophy
 ---
 
 # Decision Theory

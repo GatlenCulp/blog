@@ -2,6 +2,12 @@
 title: Consequentialism
 draft: false
 date: 2025-03-26
+tags:
+  - ethics
+  - moral-philosophy
+  - utilitarianism
+  - moral-theory
+  - philosophy
 ---
 
 [SEP Entry](https://plato.stanford.edu/entries/consequentialism/)

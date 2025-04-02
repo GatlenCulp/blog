@@ -3,6 +3,14 @@ title: Pascal's Wager
 draft: false
 lang: en
 date: 2025-03-26
+tags:
+  - pascal
+  - decision-theory
+  - probability
+  - religion
+  - expected-utility
+  - infinity
+  - philosophy
 ---
 
 [SEP Entry](https://plato.stanford.edu/entries/pascal-wager/)

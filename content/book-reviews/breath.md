@@ -3,6 +3,12 @@ title: Breath
 draft: false
 lang: en
 date: 2025-03-26
+tags:
+  - health
+  - breathing
+  - science
+  - pseudoscience
+  - criticism
 ---
 
 Breath: The New Science of a Lost Art

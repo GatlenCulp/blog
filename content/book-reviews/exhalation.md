@@ -3,6 +3,11 @@ title: Exhalation
 draft: false
 lang: en
 date: 2025-03-26
+tags:
+  - science-fiction
+  - philosophy
+  - technology
+  - short-stories
 ---
 
 Exhalation

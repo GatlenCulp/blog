@@ -3,6 +3,10 @@ title: The Death and Life of Great American Cities
 draft: false
 lang: en
 date: 2025-03-26
+tags:
+  - urban-planning
+  - sociology
+  - architecture
 ---
 
 The Death and Life of Great American Cities

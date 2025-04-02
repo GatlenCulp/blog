@@ -3,6 +3,11 @@ title: Polysecure
 draft: false
 lang: en
 date: 2025-03-26
+tags:
+  - relationships
+  - psychology
+  - polyamory
+  - attachment-theory
 ---
 
 Polysecure: Attachment, Trauma and Consensual Nonmonogamy

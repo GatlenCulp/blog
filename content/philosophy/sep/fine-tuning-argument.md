@@ -3,6 +3,15 @@ title: Fine Tuning
 draft: true
 lang: en
 date: 2025-03-26
+tags:
+  - cosmology
+  - philosophy-of-religion
+  - fine-tuning
+  - design-argument
+  - teleology
+  - anthropic-principle
+  - philosophy
+  - probability
 ---
 
 # Fine-Tuning Argument
@@ -98,7 +107,7 @@ P+(D) = P(D|R)
 
 ### 03.03 Problem of Old Evidence
 
-[Seems like a really cool series :O I still don’t understand tho I’ll come back later.](https://youtu.be/a2buTsEp13M)
+[Seems like a really cool series :O I still don't understand tho I'll come back later.](https://youtu.be/a2buTsEp13M)
 
 - We have known for a long time that the constants R are right for life, so they are old evidence
 - **Ur-probability**: Solution to the problem of old evidence

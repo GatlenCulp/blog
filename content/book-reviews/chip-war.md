@@ -3,6 +3,12 @@ title: Chip War
 draft: false
 lang: en
 date: 2025-03-26
+tags:
+  - technology
+  - geopolitics
+  - economics
+  - semiconductors
+  - computing
 ---
 
 Chip War: The Fight for the World's Most Critical Technology

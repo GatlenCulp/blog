@@ -4,6 +4,14 @@ description: Ultimate Pre-Commit Hooks Guide for 2025
 draft: false
 lang: en
 date: 2025-03-26
+tags:
+  - git
+  - code-quality
+  - dev-tools
+  - automation
+  - python
+  - development
+  - best-practices
 ---
 
-This post is available on Medium [here](https://gatlenculp.medium.com/effortless-code-quality-the-ultimate-pre-commit-hooks-guide-for-2025-57ca501d9835)
+View this article on Medium [[https://gatlenculp.medium.com/effortless-code-quality-dfd8dfd6821a|here]]

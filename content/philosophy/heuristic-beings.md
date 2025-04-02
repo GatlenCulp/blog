@@ -4,6 +4,14 @@ description: Viewing human perception and cognition through the perspective of d
 draft: false
 lang: en
 date: 2025-03-26
+tags:
+  - cognition
+  - perception
+  - heuristics
+  - philosophy-of-mind
+  - data-compression
+  - epistemology
+  - philosophy
 ---
 
-View this article on Medium [here](https://gatlenculp.medium.com/heuristic-beings-human-perception-and-cognition-96af12a3e139)
+View this article on Medium [[https://gatlenculp.medium.com/heuristic-beings-human-perception-and-cognition-96af12a3e139|here]]

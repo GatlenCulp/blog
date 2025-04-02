@@ -3,6 +3,11 @@ title: Doing Good Better
 draft: true
 lang: en
 date: 2025-03-26
+tags:
+  - philosophy
+  - effective-altruism
+  - ethics
+  - philanthropy
 ---
 
 Doing Good Better: How Effective Altruism Can Help You Make a Difference

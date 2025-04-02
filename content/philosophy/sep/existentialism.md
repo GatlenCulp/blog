@@ -3,6 +3,16 @@ title: Existentialism
 draft: false
 lang: en
 date: 2025-03-26
+tags:
+  - existentialism
+  - authenticity
+  - freedom
+  - nihilism
+  - kierkegaard
+  - nietzsche
+  - heidegger
+  - sartre
+  - philosophy
 ---
 
 # Existentialism

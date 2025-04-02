@@ -3,6 +3,12 @@ title: Peace is Every Step
 draft: false
 lang: en
 date: 2025-03-26
+tags:
+  - mindfulness
+  - spirituality
+  - buddhism
+  - meditation
+  - self-improvement
 ---
 
 Peace Is Every Step: The Path of Mindfulness in Everyday Life

@@ -3,6 +3,16 @@ title: Value Theory
 draft: false
 lang: en
 date: 2025-03-26
+tags:
+  - value-theory
+  - axiology
+  - ethics
+  - monism
+  - pluralism
+  - intrinsic-value
+  - instrumental-value
+  - philosophy
+  - moral-philosophy
 ---
 
 # Value Theory/Axiology

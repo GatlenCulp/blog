@@ -3,6 +3,15 @@ title: St. Petersburg Paradox
 draft: false
 lang: en
 date: 2025-03-26
+tags:
+  - decision-theory
+  - probability
+  - expected-utility
+  - paradox
+  - rationality
+  - infinite-series
+  - philosophy
+  - economics
 ---
 
 [Stanford Encyclopedia of Philosophy (SEP)](https://plato.stanford.edu/entries/paradox-stpetersburg/)
