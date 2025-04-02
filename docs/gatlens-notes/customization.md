@@ -76,3 +76,6 @@ This is me going from the very top of [the guide](https://quartz.jzhao.xyz/) dow
 - [ ] Quartz Showcase
 - [ ] Setting up your GitHub repository
 - [ ] Upgrading Quartz
+
+
+`custom.scss` needs to be configured

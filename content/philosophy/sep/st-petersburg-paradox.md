@@ -1,5 +1,5 @@
 ---
-title: St. Petersburg Paradox (SEP)
+title: St. Petersburg Paradox
 draft: false
 lang: en
 date: 2025-03-26

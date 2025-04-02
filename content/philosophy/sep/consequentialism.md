@@ -1,5 +1,5 @@
 ---
-title: Consequentialism (SEP)
+title: Consequentialism
 draft: false
 date: 2025-03-26
 ---

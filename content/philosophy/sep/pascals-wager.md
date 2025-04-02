@@ -1,5 +1,5 @@
 ---
-title: Pascal's Wager (SEP)
+title: Pascal's Wager
 draft: false
 lang: en
 date: 2025-03-26

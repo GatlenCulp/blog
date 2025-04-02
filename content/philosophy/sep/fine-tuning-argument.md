@@ -1,5 +1,5 @@
 ---
-title: Fine Tuning (SEP)
+title: Fine Tuning
 draft: true
 lang: en
 date: 2025-03-26

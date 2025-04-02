@@ -1,5 +1,5 @@
 ---
-title: Decision Theory (SEP)
+title: Decision Theory
 draft: false
 lang: en
 date: 2025-03-26

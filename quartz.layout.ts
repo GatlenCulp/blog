@@ -1,5 +1,45 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import type { FileTrieNode } from "./quartz/util/fileTrie"
+import type { ContentDetails } from "./quartz/plugins/emitters/contentIndex"
+import { Options } from "./quartz/components/Explorer"
+
+// TODO: Steal some from Alex Turner :)
+// https://github.com/alexander-turner/TurnTrout.com/tree/main
+
+// Explorer sort function
+const explorerSortFunction = (a: FileTrieNode<ContentDetails>, b: FileTrieNode<ContentDetails>) => {
+  const emojis =
+    /([\u2700-\u27BF]|[\uE000-\uF8FF]|\uD83C[\uDC00-\uDFFF]|\uD83D[\uDC00-\uDFFF]|[\u2011-\u26FF]|\uD83E[\uDD10-\uDDFF])/g
+  const a_dname = a.displayName.replace(emojis, "").trim()
+  const b_dname = b.displayName.replace(emojis, "").trim()
+  // Sort order: folders first, then files. Sort folders and files alphabetically
+  if (/^.*Home$/.test(a_dname)) {
+    return -1
+  }
+  if (/^.*Home$/.test(b_dname)) {
+    return 1
+  }
+  if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+    // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
+    // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
+    return a_dname.localeCompare(b_dname, undefined, {
+      numeric: true,
+      sensitivity: "base",
+    })
+  }
+  if (!a.isFolder && b.isFolder) {
+    return 1
+  }
+  return -1
+}
+
+// Explorer Config
+const explorerConfig: Options = {
+  title: "Content",
+  sortFn: explorerSortFunction,
+  folderDefaultState: "open",
+}
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -12,9 +52,9 @@ export const sharedPageComponents: SharedLayout = {
         repo: "GatlenCulp/blog",
         repoId: "R_kgDOOJAVtQ",
         category: "Announcements",
-        categoryId: "DIC_kwDOOJAVtc4Cor00"
+        categoryId: "DIC_kwDOOJAVtc4Cor00",
       },
-    })
+    }),
   ],
   footer: Component.Footer({
     links: {
@@ -49,7 +89,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer(explorerConfig),
   ],
   right: [
     Component.Graph(),
@@ -75,38 +115,7 @@ export const defaultListPageLayout: PageLayout = {
     }),
     // Component.Explorer(),
     // Below was borrowed from: https://github.com/bfahrenfort/quartz/blob/v4/quartz.layout.ts
-    Component.DesktopOnly(
-      Component.Explorer({
-        sortFn: (a, b) => {
-          const emojis =
-            /([\u2700-\u27BF]|[\uE000-\uF8FF]|\uD83C[\uDC00-\uDFFF]|\uD83D[\uDC00-\uDFFF]|[\u2011-\u26FF]|\uD83E[\uDD10-\uDDFF])/g
-          const a_name = a.name.replace(emojis, "").trim()
-          const a_dname = a.displayName.replace(emojis, "").trim()
-          const b_name = b.name.replace(emojis, "").trim()
-          const b_dname = b.displayName.replace(emojis, "").trim()
-          // Sort order: folders first, then files. Sort folders and files alphabetically
-          if (/^.*Home$/.test(a_dname)) {
-            return -1
-          }
-          if (/^.*Home$/.test(b_dname)) {
-            return 1
-          }
-          if ((!a.file && !b.file) || (a.file && b.file)) {
-            // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
-            // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
-            return a_dname.localeCompare(b_dname, undefined, {
-              numeric: true,
-              sensitivity: "base",
-            })
-          }
-          if (a.file && !b.file) {
-            return 1
-          } else {
-            return -1
-          }
-        },
-      }),
-    ),
+    Component.DesktopOnly(Component.Explorer(explorerConfig)),
     //Component.TableOfContents(),
   ],
   right: [],
