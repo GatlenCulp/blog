@@ -79,3 +79,40 @@ This is me going from the very top of [the guide](https://quartz.jzhao.xyz/) dow
 
 
 `custom.scss` needs to be configured
+
+## 05 Themes
+
+Using quartz themes you can import obsidian themes. Some I like (only looking at favs and light/dark)
+- Dracula-Official
+- Ayu-Mirage
+- Blue Topaz
+- Borealis
+- Bolt
+- Chime
+- Composer
+- Cupertino
+- Dark-Clarity
+- Dawn
+- Eldritch (dark only)
+- Elegance
+- Emerald-Echo
+- Ethereon
+- Github-theme
+- Glass-robo
+- Hackthebox
+- Heboric
+- improved-potato
+- lesswrong
+- listive
+- maple (very color)
+- monokai (also very color)
+- neo
+- (skipping aroudn now)
+- obsidian-gruvbox
+- obsidian-nord (also really nice)
+- obsidian_ia
+- onenice (prettyy)
+- ono-sendai
+- retro-windows
+- tokyo-night
+- zen
