@@ -1,7 +1,8 @@
 ---
 title: 💭 Philosophy
+alias:
+  - phil
 draft: false
-lang: en
 date: 2025-03-26
 tags:
   - philosophy

@@ -27,12 +27,19 @@ If you're interested in reading more about me as a person, I recommend checking 
 
 I write about topics that fascinate me, challenge me, and shape how I think about the world. The blog currently includes:
 
-- **[🤖 Artificial Intelligence](artificial-intelligence)** - Blog posts relating explicitly to Artificial Intelligence.
-- **[💭 Philosophy](philosophy)** - A series of notes and writings in broad area of philosophy.
-- **[💻 Computer Systems](computer-systems)** - Notes and guides to computer systems, software engineering, devops, and tooling.
-- **[🔧 Over-Engineering](over-engineering)** - Digging way too deep into topics that did not deserve it.
-- **[📚 Book Reviews](book-reviews)** - My collection of book reviews and reflections, primarily as a reflective exercise to further develop my viewpoints.
+**Technical**
+- **[🤖 Artificial Intelligence](artificial-intelligence)** -- Blog posts relating explicitly to Artificial Intelligence.
+- **[💣 AI Safety](ais)** -- Topics on AI Security (AIS), my field of research and interest.
+- **[💻 Computer Systems](computer-systems)** -- Notes and guides to computer systems, software engineering, devops, and tooling.
+
+**Humanities**
+- **[💭 Philosophy](philosophy)** -- A series of notes and writings in broad area of philosophy.
+- **[📚 Book Reviews](book)** -- My collection of book reviews and reflections, primarily as a reflective exercise to further develop my viewpoints.
+
+**Misc**
+- **[🔧 Over-Engineering](over-engineering)** -- Digging way too deep into topics that did not deserve it.
+- **[🪿 Silly](silly)** -- Funny hahas.
 - **[💪 Self-Improvement](self-improvement)** - My personal thoughts on self-improvement -- mental and physical.
-- **[✈️ Travel](travel)** - Notes and personal guides to traveling.
+- **[✈️ Travel](travel)** -- Notes and personal guides to traveling.
 
 Feel free to explore, and check back regularly as I'll be updating these posts and adding new ones. Check the footer for important links.
