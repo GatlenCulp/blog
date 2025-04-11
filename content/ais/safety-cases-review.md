@@ -12,7 +12,7 @@ tags:
 
 ## Background
 
-This post first originated from an application question and is not yet finished.
+This post first originated from an application question and is not yet finished. At the moment it simply introduces Safety Cases as I personally see them but does not go into depth about their benefits or drawbacks.
 
 ## Review of the Safety Cases Agenda for Mitigating AI Risk
 
