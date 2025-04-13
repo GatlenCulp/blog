@@ -14,7 +14,7 @@ tags:
   - philosophy
 ---
 
-_Author Note: This article is a decent and concise food for thought, as a response to both extremes of the conspiracy-believing spectrum. I wrote this with little mental thought._
+_Author Note: This article is a decent and concise food for thought, as a response to both extremes of the conspiracy-believing spectrum. I wrote this with little mental._
 
 ## 01 Conspiracies Happen
 
