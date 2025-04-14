@@ -46,9 +46,9 @@ Quiet's benefits are hard to articulate precisely because silent moments lack pr
 
 Creative thoughts and surprising connections flourish in quiet. Silence enables deeper self-reflection aiding personal relationships, wellbeing, and life decisions. While there may be diminishing marginal returns on quiet, I think some amount is inarguably helpful (recall ideas you may have gotten during walks or, on the other end, try making important decisions while videos play in the background and your phone rings non-stop). Quiet makes you captain of your thought-ship and consequently actions you make when your executive functioning side kicks in. The constant noise stream impedes both focused work and diffuse thinking (the Default Mode Network (DMN) activity -- typically characterized by loose, big-picture, subconscious processing). Excessive focus without breaks leads to burnout (something something Executive Control Network (ECN)). Diffuse thinking helps overcome the Einstellung effect, where rigid problem-solving blocks simpler solutions. By flooding your brain with podcasts or diverting attention to emails during lectures, you're sabotaging your ability to solidify knowledge through background processing. (Take this with a grain of salt, not rigorously researched!)
 
-![Barbara Oakley's pinball analogy](attachment:8016e4ed-c0ff-4bd4-9702-cabad085310e:image.png)
+![Barbara Oakley's pinball analogy](https://raw.githubusercontent.com/huytd/everyday/master/_meta/focused-vs-diffuse.png)
 
-Barbara Oakley's pinball analogy
+_Barbara Oakley's pinball analogy_
 
 ### 05.02 Deeper Learning and Insight
 
@@ -58,3 +58,6 @@ Creative tasks improve dramatically when spread across multiple sessions. Writin
 
 Multitasking with podcasts or emails predictably reduces effectiveness (duh). This constant distraction functions as anti-mindfulness. Through exploring literature on mindfulness, I've discovered it extends beyond brief meditation sessions — presence can infuse and benefit every moment. Far from being a luxury for "squishy" pretentious types, this mindful presence substantially enhances life quality and wellbeing.
 
+## 06 Actions
+
+Anyways, all this reasoning is to say that I'm going to try making more room for quiet and less stimulus. This won't be the total irradication of podcasts, videos, or multitasking,but instead I intend to at least do so sparingly. I won't listen to episodes or videos that don't sound particularly appealing and try my best to avoid multitasking, particularly in classes. I have been trying to use [Cold Turkey](./cold-turkey.md) for this, but it has been difficult to keep enabled since I sometimes need access to certain resources during class.

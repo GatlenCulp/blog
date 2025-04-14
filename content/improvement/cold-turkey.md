@@ -1,5 +1,5 @@
 ---
-title: Taking Control of Your Time w/ Cold Turkey App & Website Blocker
+title: Taking Control Cold Turkey
 description: My Cold Turkey configuration for breaking bad digital habits and reclaiming focused time
 draft: false
 lang: en
