@@ -67,12 +67,12 @@ During 2023, I completed [AI Security Fundamentals (technical track)](https://ai
 
 Throughout this period, I continuously developed perspectives on AI Security strategy and philosophical/social concerns in light of a radical future, influenced by my work, readings, and interactions with the wider AI Security community.
 
-
 ## 04 Applied AI Security Work
 
 ### 04.01 METR Evaluation Infrastructure (Fall 2024)
 
-In Fall 2024, I transitioned to more applied work, contributing to [METR's](https://metr.org/) evaluation infrastructure as a contractor. My work involved developing CLI tools, evaluation templates, and [installers](https://github.com/GatlenCulp/homebrew-vivaria/)[^6] for [Vivaria](https://vivaria.metr.org/), a platform used to conduct AI capability and risk evaluations in partnership with OpenAI, Anthropic, and US/UK AI Security institutes. 
+In Fall 2024, I transitioned to more applied work, contributing to [METR's](https://metr.org/) evaluation infrastructure as a contractor. My work involved developing CLI tools, evaluation templates, and [installers](https://github.com/GatlenCulp/homebrew-vivaria/)[^6] for [Vivaria](https://vivaria.metr.org/), a platform used to conduct AI capability and risk evaluations in partnership with OpenAI, Anthropic, and US/UK AI Security institutes.
+
 <!-- I also created the web documentation portal to improve accessibility and user onboarding for researchers working with the platform. -->
 
 ### 04.02 Policy Engagements (Winter 2024-2025)
@@ -90,12 +90,16 @@ For the past three+ years, my career has focused on mitigating risks from advanc
 Looking beyond graduation, I aim to continue working at the intersection of technical AI Security research and policy development, helping to build robust governance frameworks for increasingly capable AI systems. My ultimate goal is to contribute to ensuring AI development remains safe, beneficial, and aligned with human values as these technologies become increasingly powerful and transformative.
 
 [^1]: Most know EA as a fringe philosophical movement affiliated with what I believe is the largest case of crypto fraud as of April 2025. My historical relationship with EA is complex and I don't interact with the community much. I intend to write about this eventually.
-[^2]: Initially: The Precipice, Doing Good Better, Human Compatible, Superintelligence, numerous AIS/LW articles. Later expanded to include The Sequences, Joe Carlsmith's "Otherness and control in the age of AGI", Uncontrollable, Superforecasting, Life 3.0, and others.
-[^3]: Ironically going from MIT to Berkeley and joining a research project with someone at MIT 💀
-[^4]: In my tenure at MAIA, I also developed [MopMan](https://mitalignment.notion.site/MopMan-Documentation-9bbc80b1f07744458712211f4817dfc1?pvs=74), an operations management system with AirTable, [GatPack](https://github.com/GatlenCulp/gatpack), a LaTeX-based packet generation tool, a [repository of AIS university group resources](https://www.notion.so/mitalignment/Resources-for-AIS-University-Groups-8006446beb6b45b6be3052901ac93ff7?pvs=4), and the AIS @ MIT Directory (Contact me for access!)
-[^5]: Also completed about one week of the [ARENA curriculum](https://www.arena.education/chapter0), but that's hardly substantial
-[^6]: The team had no desire to maintain the Homebrew Formula unfortunately. Some parts of it lived on elsewhere but the project overall was scrapped.
 
+[^2]: Initially: The Precipice, Doing Good Better, Human Compatible, Superintelligence, numerous AIS/LW articles. Later expanded to include The Sequences, Joe Carlsmith's "Otherness and control in the age of AGI", Uncontrollable, Superforecasting, Life 3.0, and others.
+
+[^3]: Ironically going from MIT to Berkeley and joining a research project with someone at MIT 💀
+
+[^4]: In my tenure at MAIA, I also developed [MopMan](https://mitalignment.notion.site/MopMan-Documentation-9bbc80b1f07744458712211f4817dfc1?pvs=74), an operations management system with AirTable, [GatPack](https://github.com/GatlenCulp/gatpack), a LaTeX-based packet generation tool, a [repository of AIS university group resources](https://www.notion.so/mitalignment/Resources-for-AIS-University-Groups-8006446beb6b45b6be3052901ac93ff7?pvs=4), and the AIS @ MIT Directory (Contact me for access!)
+
+[^5]: Also completed about one week of the [ARENA curriculum](https://www.arena.education/chapter0), but that's hardly substantial
+
+[^6]: The team had no desire to maintain the Homebrew Formula unfortunately. Some parts of it lived on elsewhere but the project overall was scrapped.
 
 <!-- My AI safety experience spans over three years, beginning with immersion in foundational literature[^1] (including The Precipice, Superintelligence, and Human Compatible) and completion of the AI Safety Fundamentals technical track. I've gained practical experience through the SERI Summer Research Fellowship[^2] where I contributed to Stephen Casper's research on adversarial prompting and helped create the CommonClaim Dataset[^3]. As Operations Director for MIT AI Alignment[^4] for ~two years, I've managed organizational strategy while participating AISST-MAIA technical/policy workshops[^5] and multiple EAGs. Recently, I've transitioned to more applied work — presenting AI risks to policymakers through a phone-line attack demo at CAIP's Congressional Exhibition on Advanced AI[^6], developing evaluation infrastructure at METR[^7], and collaborating with the MIT Algorithmic Alignment Group on AI R&D automation capability assessments[^8], while simultaneously spearheading efforts to establish an MIT AI Security Institute with faculty members. See the AI and AI security sections on my (early-stage) blog for more perspectives[^9]. [^1]: https://gatlen.blog/book/ [^2]: https://www.notion.so/Machine-Learning-Researcher-SERI-SRF-a5ea491faedd430a8bd0a94daeefe200?pvs=21 [^3]: https://www.notion.so/Explore-Establish-Exploit-Red-Teaming-Language-Models-from-Scratch-8b484fd774ed4bcca62d3be7da2f46ad?pvs=21 [^4]: https://www.notion.so/Director-of-Operations-MAIA-d679e52136a04cf2b1a504d1028203e3?pvs=21 [^5]: https://aialignment.mit.edu/getinvolved/#workshops [^6]: https://aialignment.mit.edu/initiatives/caip-exhibition/ [^7]: https://www.notion.so/Evaluations-SWE-Contractor-METR-12f803bca419806ba861fadd4a05acd6?pvs=21 [^8]: https://www.notion.so/End-to-End-AI-R-D-Benchmark-for-Monitoring-the-Capabilities-of-Frontier-AI-Models-1c7803bca41980bbb89ec1165958618f?pvs=21 [^9]: https://gatlen.blog/
  -->

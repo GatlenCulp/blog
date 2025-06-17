@@ -26,7 +26,7 @@ Now for my summarized version of the good parts of the book (most of which are j
 
 - Chaos Theory doesn't hinge at all on true randomness, only the fact that the action space is so large that it is impossible to account for every thing. To predict the movement of anything not so far into the future, you have to take into account the gravitational pull of small amounts of matter millions of miles away. True randomness vs uncertainty doesn't really matter, as we will never somehow be able to know the properties of everything around us.
 
-- The problem of positive empiricism vs negative empiricism. 1000 days can't prove you right, but 1 day can prove you wrong. Science is mostly based on negative empiricism, where one tries to disprove their claim as a way to get at real knowledge. Forecasts tend to use positive empiricism or regressions 
+- The problem of positive empiricism vs negative empiricism. 1000 days can't prove you right, but 1 day can prove you wrong. Science is mostly based on negative empiricism, where one tries to disprove their claim as a way to get at real knowledge. Forecasts tend to use positive empiricism or regressions
 
 — things have happened this way before, and we will assume they will continue to happen like this. Hempel's raven or the Raven Paradox is interesting in that it implies seeing something non-black not be a Raven supports the claim that "All Ravens are Black" despite it not seeming like seeing the non-black thing made you learn anything about Ravens.
 

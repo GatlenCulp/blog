@@ -20,6 +20,7 @@ I would best describe this book as one that explains polyamory and generalizes a
 (Note: CNM = Consensual Non-Monogamy)
 
 Polysecure is a great book that explains:
+
 1. Reasons for CNM and the different kinds of people that enter into the relationship
 2. Unique issues and opportunities granted by CNM
 3. The pathologization of CNM, as well anti-sex and mononormative culture that results in discrimination

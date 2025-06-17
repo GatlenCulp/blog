@@ -40,10 +40,10 @@ Various physical constants appear precisely calibrated for life, with small devi
 
 ### 01.03 From Biology (typical argument for divine design)
 
-- Typically said that animals are they are today is evolution selected these for their ability to survive (is it 
-possible that we might find something like this for the 
-universe? see
-[https://www.notion.so/gatlen/Stanford-Encyclopedia-of-Philosophy-SEP-2771bfe5523e4f408b4e3077827adf7f?pvs=4#765492166d094934b1415214f9694f2e](https://www.notion.so/Stanford-Encyclopedia-of-Philosophy-SEP-2771bfe5523e4f408b4e3077827adf7f?pvs=21))
+- Typically said that animals are they are today is evolution selected these for their ability to survive (is it
+  possible that we might find something like this for the
+  universe? see
+  [https://www.notion.so/gatlen/Stanford-Encyclopedia-of-Philosophy-SEP-2771bfe5523e4f408b4e3077827adf7f?pvs=4#765492166d094934b1415214f9694f2e](https://www.notion.so/Stanford-Encyclopedia-of-Philosophy-SEP-2771bfe5523e4f408b4e3077827adf7f?pvs=21))
 - **Irreducibly Complex Features**: Some organs might not be reachable by small-scale evolutionary steps, such as the flagellum (Behe), this is argued against (Miller)
 
 ## 02 Fine-Tuning for Life: How do we respond?
@@ -56,8 +56,8 @@ Fine-Tuning ⇒ Divine Designer or Multiverse assuming probability says this fin
 - Logical probability — Arbitrary real numbers are possible values of the constants under uniform probability (any other distribution is unfounded). But under this infinite uniform distribution, any finite range has probability 0 (Koperski)
 - Why wouldn't conditions be life-friendly?
 - Naturalness criterion leads one to expect values for the cosmological constant and mass of higgs particle to be dramatically different from actual ones
-- (should probably read this for interpretations on 
-probability https://plato.stanford.edu/entries/probability-interpret/)
+- (should probably read this for interpretations on
+  probability https://plato.stanford.edu/entries/probability-interpret/)
 
 ### 02.02 Does Improbable Fine-tuning Call for a response
 
@@ -67,7 +67,7 @@ probability https://plato.stanford.edu/entries/probability-interpret/)
 
 ### 02.03 Avoiding fine-tuning for life through new physics
 
-Note to self: Could group mapping be a good way to point 
+Note to self: Could group mapping be a good way to point
 towards which ideas are true/false?
 
 - **Theory of Everything**
@@ -90,20 +90,21 @@ P+(D) = P(D|R)
 - **Weak Anthropic Principle (WAP)**: Our methods of observation are unavoidably biased towards detecting conditions which are compatible with the existence of observers. (Aka Observation-Selection Effects, what we observe must be compatible with the existence of observers)
 
 - **Strong Anthropic Principle (SAP)**: The universe must be such to admit within it the creation of observers at some stage.
+
   - Only stronger than WAP when conjoined with a version of the multiverse hypothesis.
 
 - **Anthropic Objection**: Basically saying fine-tuning is inadequate because of the anthropic principle (Sober)
+
   - P(R|D, OSE) > P(R|!D, OSE) is hard to prove.
 
 - **Leslie's Firing Squad**: Prisoner expects to be executed by firing squad, surprised when everyone misses (kind of quantum immortality)
   - Maybe this can be edited such that, because your observation changes when you die (not simply it disappears)
   - Can be fixed by removing the bracketed part from the claim "[We exist and] if we exist, the constants must be right"
-       ![CleanShot 2024-01-26 at 00.22.36@2x.png](https://
-        prod-files-secure.s3.us-west-2.amazonaws.com/
-        76c08362-e402-499e-b443-3bd2cf9c5779/
-        463832c0-03b5-4054-885a-02c9770eb646/
-        CleanShot_2024-01-26_at_00.22.362x.png)
-
+    ![CleanShot 2024-01-26 at 00.22.36@2x.png](https://
+    prod-files-secure.s3.us-west-2.amazonaws.com/
+    76c08362-e402-499e-b443-3bd2cf9c5779/
+    463832c0-03b5-4054-885a-02c9770eb646/
+    CleanShot_2024-01-26_at_00.22.362x.png)
 
 ### 03.03 Problem of Old Evidence
 
@@ -119,6 +120,6 @@ Assumption P(R|D) is high if you assume a God of traditional theism. We need to 
 - But also P(R|D) can be as low as one-billionth and still be an argument for a divine designer
 - If you constrain D to be this life-friendly designer, P(D) go down. Also P(D) may be negligible in the sense that for this to be a prior you can't found it based on the Bible or anything else
 
-### 03.05 Alternative Argument from Fine-Tuning for Design 
+### 03.05 Alternative Argument from Fine-Tuning for Design
 
 (skipping taking notes for now, need to read the rest of this SEP entry.)

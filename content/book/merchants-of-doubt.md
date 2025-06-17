@@ -20,13 +20,11 @@ This book didn't introduce me to any major topic I wasnt already vaguely familia
 
 It highlighted various systemic issues:
 
-
 - The public lacks scientific and data literacy
 
-
 - Scientists refrain from the public stage, make broad technical statements that no one reads, believe their ideas will win out in the marketplace of ideas, and don't speak out when they don't win. I believe this silence is in part caused by the cultural ideal within the scientific community that science is both apolitical and self-justifying. Almost pure and untouched by human interests and should remain that way. To paraphrase what a friend said:
-> If the science is useful, it’s designed to change the world, so it’s political. Even if the science is not useful, it’s the same as art so it’s political.
 
+  > If the science is useful, it’s designed to change the world, so it’s political. Even if the science is not useful, it’s the same as art so it’s political.
 
 - Journalists are incentivized to cover controversy and pressured to platform "both sides". I'm familiar with this concept under the name of “both-sides-ism” and have a vague recall to the relationship it had to government enforcement of political independence on radio broadcasts (in the US or UK?). Even though these restrictions may have enacted in good faith, they were heavily leveraged to platform extreme minority viewpoints or disinformation, resulting in lending legitimacy to false or misleading information or skewing the public perception on what others believe. In the modern day, I think there's also a false perception that you can platform anyone in an apolitical way just to “hear them out”. The Joe Rogan and Lex Friedman podcasts come to mind in particular. While the media might have some kind of responsibility to share the opinions, experiences, and values of minority viewpoints, it SHOULD NOT include speaking directly to millions where the burden of fact checking is laid on the audience. Regardless of whichever choice is made, it will never be apolticial.
 

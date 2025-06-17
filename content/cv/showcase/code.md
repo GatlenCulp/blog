@@ -21,6 +21,6 @@ LEAD (Linear embedding alignment across LLMs): A two-person six-day research pro
 
 - Vivaria PRs
 - CookieCutter Data Science (From work on GOTem)
-    - Support for uv project and dependency manger -- https://github.com/drivendataorg/cookiecutter-data-science/pull/408
-    - PyTest IDs -- https://github.com/drivendataorg/cookiecutter-data-science/pull/409 (super small)
-    - Git Support -- https://github.com/drivendataorg/cookiecutter-data-science/pull/407 (Not yet implemented)
+  - Support for uv project and dependency manger -- https://github.com/drivendataorg/cookiecutter-data-science/pull/408
+  - PyTest IDs -- https://github.com/drivendataorg/cookiecutter-data-science/pull/409 (super small)
+  - Git Support -- https://github.com/drivendataorg/cookiecutter-data-science/pull/407 (Not yet implemented)

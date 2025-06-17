@@ -6,8 +6,7 @@ lang: en
 date: 2025-03-26
 ---
 
-*Author's Note: I don't pretend to generalize my experience and tendencies to everyone else's. Additionally, this is not a rigorously substantiated post, only pieced together from recollections of things I had researched previously. Treat claims I make and scientific langauge I use with a grain of salt.*
-
+_Author's Note: I don't pretend to generalize my experience and tendencies to everyone else's. Additionally, this is not a rigorously substantiated post, only pieced together from recollections of things I had researched previously. Treat claims I make and scientific langauge I use with a grain of salt._
 
 ## 01 Ever-Expanding Attention Economy
 
@@ -39,7 +38,8 @@ This stems partly from genuine growth ambitions — wanting to understand the wo
 
 _By quiet, I mean not just "moments of actual silence" and instead I mean moments where you are under 100% mental load. A boring but easy to follow lecture would count as "quiet" in the sense I ended up using it._
 
-Quiet's benefits are hard to articulate precisely because silent moments lack predefined, measurable goals. We envision achievement as focused effort on concrete problems. 
+Quiet's benefits are hard to articulate precisely because silent moments lack predefined, measurable goals. We envision achievement as focused effort on concrete problems.
+
 <!-- Society assigns little value to unfocused moments. Answering "what do you gain from brushing your teeth while listening to a podcast" is simpler than explaining the value of doing so in silence. Yet something vital is lost, even from a pure productivity perspective. -->
 
 ### 05.01 Creativity and Connection

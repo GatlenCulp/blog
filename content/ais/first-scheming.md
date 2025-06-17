@@ -9,7 +9,6 @@ tags:
   - technology
 ---
 
-
 Rudimentary forms of deceptive alignment likely already exist, though they're not yet substantial or harmful. Current models might exhibit preference for giving human-aligned responses to avoid value changes during training (a la Alignment Faking). While these behaviors are deceptive and troublesome, I'm not sure if I would consider them as scheming in some deeper sense. By "scheming," I mean behavior that meets three criteria:
 
 1. Goes beyond merely preventing value-manipulation

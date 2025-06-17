@@ -48,7 +48,6 @@ Detached rational thought is the western norm. Existentialism says we shouldn't 
 ![IMG_1642.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/76c08362-e402-499e-b443-3bd2cf9c5779/81f00e3b-b965-4ad7-883a-1c2fdfcfdd84/IMG_1642.jpeg)
 
 > And subjective truth cannot be reasoned about or explained logically; it emerges out of the situated commitments, affects, and needs of the individual. For this reason, it does not disclose timeless and objective truths; it discloses "a truth which is true for me" (1835 [1959, 44]). For Kierkegaard, to live this truth invariably results in feelings of anxiety and confusion because it is objectively uncertain; it has no rational justification, and no one else can understand or relate to it. It is an ineffable truth that is felt rather than known. In this sense, the existing individual "discovers something that thought cannot think" (Kierkegaard 1844 [1936, 29]).
-> 
 
 ## 03 Perspectivism
 
@@ -59,9 +58,11 @@ Nietzsche emphasizes that truths are grounded in sociohistorical situations. Peo
 Heidegger. Dasein referring to one's way of being. Rejects that there is an inner and outer kind of world. Rejects true reality or smthn. We are already caught up or existing in the world. Lived and not known. Object-body and lived-body.
 
 ### 04.01 Facticity
+
 Givenness or how we were made to exist.
 
 ### 04.02 Transcendence
+
 Being able to relate to ones self to change factictious behavior (smoking, alcohol, etc.).
 
 Half monkey half god.
@@ -76,14 +77,14 @@ There are boundary situations that have the power to shake us of our complacency
 
 The subjective truth may be above universal truths of morality.
 
-> The "unifying power" of commitment is embodied in, what Kierkegaard calls, an attitude of "earnestness" (*alvor*), a sober recognition that existence is a serious affair, not a pleasure-seeking masquerade. But authenticity cannot be achieved simply by means of renouncing temporal pleasures and doing one's duty according to some universal moral principle—such as the Ten Commandments or Kant's Categorical Imperative. This is because, for Kierkegaard, the subjective truth of the individual is higher than the universal truths of morality. And this means there may be times in our lives where we must suspend our obligation to the ethical sphere and accept the terrible fact that it may be more important to be authentic (to be true to oneself) than it is to be moral (to do what is right.)
-> 
+> The "unifying power" of commitment is embodied in, what Kierkegaard calls, an attitude of "earnestness" (_alvor_), a sober recognition that existence is a serious affair, not a pleasure-seeking masquerade. But authenticity cannot be achieved simply by means of renouncing temporal pleasures and doing one's duty according to some universal moral principle—such as the Ten Commandments or Kant's Categorical Imperative. This is because, for Kierkegaard, the subjective truth of the individual is higher than the universal truths of morality. And this means there may be times in our lives where we must suspend our obligation to the ethical sphere and accept the terrible fact that it may be more important to be authentic (to be true to oneself) than it is to be moral (to do what is right.)
 
 Kierkegaard believes Abraham's sacrifice of his son — something so inherently irrational and immoral and willing to follow his authentic self above society's standards — is what it means to be authentic. Even fraught with dispair and being individualized, his actions unable to be understood by anyone. But also there is joy in this absurdity of religious existence. He is a knight of faith.
 
 ## 06 Nietzsche's Approach
 
 ### 06.01 Morality Systems
+
 Nietzsche. **Slave morality** as Christianity and **master morality** as the ability to create their own self-directed meaning. Those who are able to overcome slavish values of tradition and walk a path of self-creation is an ubermensch (think Walter White). Gives style to life.
 
 ![IMG_1662.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/76c08362-e402-499e-b443-3bd2cf9c5779/230d56f3-b09b-4e1a-9e99-a2e181b95684/IMG_1662.jpeg)
@@ -91,6 +92,7 @@ Nietzsche. **Slave morality** as Christianity and **master morality** as the abi
 The overman affirms every aspect of his life. Strengths, weaknesses, every truth such as the simple, bitter, immoral, ugly, etc.
 
 ### 06.02 Key Nietzschean Concepts
+
 **Amor fati** Have a love of one's fate.
 
 **Eternal Recurrence** if we live life over and over for eternity, how would we like to act.
@@ -99,7 +101,7 @@ The overman affirms every aspect of his life. Strengths, weaknesses, every truth
 
 Camus says this way of being is a way of rebellion To live full of spirit.
 
-*This is not at all what I thought Nietzsche was about.*
+_This is not at all what I thought Nietzsche was about._
 
 ## 07 Heidegger on Authenticity
 
@@ -108,13 +110,12 @@ Camus says this way of being is a way of rebellion To live full of spirit.
 Heidegger considers conforming as "falling" or being inauthentic.
 
 > Everyone is the other, and no one is himself.
-> 
 
-*I feel like there is a strong connection between authenticity and relationships. So hard for public figures to be authentic.*
+_I feel like there is a strong connection between authenticity and relationships. So hard for public figures to be authentic._
 
-Heidegger calls authenticity "resoluteness". 
+Heidegger calls authenticity "resoluteness".
 
-*It sounds like most of these philosophers are talking about the same thing.*
+_It sounds like most of these philosophers are talking about the same thing._
 
 Resoluteness is not becoming rigid in any one identity (over-identifying), but allowing ones identity to die at any moment. Not a fully realized object or thing. To live for oneself.
 
@@ -123,12 +124,10 @@ You need to constantly be in self-recovery of your corrupted way of being.
 ## 08 Existentialist Perspectives
 
 > Beauvoir explains: "The notion of ambiguity must not be confused with that of absurdity. To declare that existence is absurd is to deny that it can ever be given a meaning; to say that it is ambiguous is to assert that its meaning is never fixed."
-> 
 
 Authenticity is not about who you are, it is about what you do.
 
-> The point of authenticity, then, is not to be concerned with *who I am*—because, at bottom, I am nothing. It is to be concerned with *what I do*. As Sartre writes, "Authenticity reveals that the only meaningful project is that of *doing* (not that of being)" (1948 [1992, 475]).
-> 
+> The point of authenticity, then, is not to be concerned with _who I am_—because, at bottom, I am nothing. It is to be concerned with _what I do_. As Sartre writes, "Authenticity reveals that the only meaningful project is that of _doing_ (not that of being)" (1948 [1992, 475]).
 
 Rejection of objective moral order. Satre states that ethics can be for you to help realize your authenticity and authenticity of others.
 
@@ -137,19 +136,14 @@ Satre "Hell is — other people" in the sense that human relations are a conflic
 But instead of doing this, you can authentically express being-for-others. Simultaneously acknowledging and nurturing another's freedom while resisting the need to manipulate.
 
 - Authentic being-for-others is a moral stance. (is it a normative ethical theory??)
-    
-    > As a moral stance, authentic being-for-others is a form of reciprocity that involves "the mutual recognition of two freedoms […] [where] neither would give up transcendence [and] neither would be mutilated" (1949 [1952, 667]). In this way authenticity and morality belong together, whereby we have a shared obligation to liberate or free each other so that we can create ourselves and take responsibility for the life we lead. Therefore, as Beauvoir puts it, "to will oneself moral and to will oneself free are one and the same decision" (1947 [1948, 24]).
-    > 
-    
-    > Here, we see the development of an ethical maxim: to act in such a way as to will the realization of your own freedom and the realization of freedom for others.
-    > 
+  > As a moral stance, authentic being-for-others is a form of reciprocity that involves "the mutual recognition of two freedoms […] [where] neither would give up transcendence [and] neither would be mutilated" (1949 [1952, 667]). In this way authenticity and morality belong together, whereby we have a shared obligation to liberate or free each other so that we can create ourselves and take responsibility for the life we lead. Therefore, as Beauvoir puts it, "to will oneself moral and to will oneself free are one and the same decision" (1947 [1948, 24]).
+  > Here, we see the development of an ethical maxim: to act in such a way as to will the realization of your own freedom and the realization of freedom for others.
 
 ## 09 Definitional Approaches
 
 **Extensional definition**
 
 **Intensional definition**
-
 
 ## 10 Ethics of Recognition
 
@@ -159,7 +153,7 @@ Buber claims we often relate to others in an "I-It" relation, where we see other
 
 ## 11 Ethics of Engagement
 
-*I'm realizing when the existentialist talks about "freedom" they mean "the freedom to be as you are, living and acting authentically with your subjective truth"*
+_I'm realizing when the existentialist talks about "freedom" they mean "the freedom to be as you are, living and acting authentically with your subjective truth"_
 
 Beauvoir: Socioeconomic and political structures can restrict the human capacity for freedom and transcendence. Makes a point to note these structures are not immutable.
 

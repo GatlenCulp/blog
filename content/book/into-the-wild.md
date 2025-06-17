@@ -9,7 +9,7 @@ Into the Wild
 
 ⭐️⭐️⭐️⭐️
 
-<b>Timeline, source:</b> 
+<b>Timeline, source:</b>
 <a href="http://www.rachelsweetdesign.com/into-the-wild.html">http://www.rachelsweetdesign.com/into-the-wild.html</a>
 
 <img src="http://www.rachelsweetdesign.com/uploads/1/1/8/2/118288762/editor/into-the-wild-final-time-line.jpg?1576204083"/>

@@ -9,4 +9,3 @@ tags:
 ---
 
 Welcome to the `silly zone`
-

@@ -5,7 +5,6 @@ lang: en
 date: 2025-03-26
 ---
 
-
 The Culture Code: The Secrets of Highly Successful Groups
 by Daniel Coyle
 

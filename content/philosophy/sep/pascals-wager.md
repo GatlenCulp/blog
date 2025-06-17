@@ -18,11 +18,13 @@ tags:
 ## 01 Decision Theory Background
 
 ### 01.01 Decisions Under Uncertainty
+
 Actions in **decisions under uncertainty (no probabilities)**, \( A_1 \) **superdominates** \( A_2 \) iff all outcomes of \( A_1 \) are not worse than \( A_2 \) and at least one outcome is better
 
-> *Superdominate seems like a good term for value theory.*
+> _Superdominate seems like a good term for value theory._
 
 ### 01.02 Decisions Under Risk
+
 Actions in **decisions under risk (probabilities)**, choose the one with maximum expected utility.
 
 ## 02 The Wager
@@ -47,6 +49,7 @@ Different claim says that wagering against god is finite because of God's mercy 
 ## 03 Objections to the Wager
 
 ### 03.01 Decision Table Objections (Premise 1)
+
 - Different Decision Tables for Different People
 - **Utility of Salvation could not be infinite** (see [A global bounded utility function is necessary](https://www.notion.so/A-global-bounded-utility-function-is-necessary-sigmoid-of-my-utility-function-lol-d-7dc541865a4542739173a5dbc35d4ae7?pvs=21))
 - More than one infinity in the table (ex: reincarnation to infinity for f1 or f3, diverging to positive or negative infinity)
@@ -54,29 +57,33 @@ Different claim says that wagering against god is finite because of God's mercy 
 - **The many Gods objection (more columns)** — Can all cancel out. If you start assigning probabilities, then the infinities are still infinities and can still cancel each other out. (Talks in depth about this more but I honestly don't think it adds anything meaningful)
 
 ### 03.02 Probability Objections (Premise 2)
+
 - Probability for God is undefined (BS imo)
 - Probability for God is \( 0 \) (BS imo)
 
 ### 03.03 Expected Utility Objections (Premise 3)
+
 - St. Petersburg paradox problem (finite amount to play a game with infinite expectation)
 - Some other notes that I don't think particularly add anything
 
 ### 03.04 Argument Validity Issues
-    
+
 ![Mixed strategies in Pascal's Wager](static/sep/pascals-wager-mixed-strats.png)
-    
+
 - A mixed strategy also yield infinite outcome! Ie: based on some random outcome, choose your action.
   - Including ignoring the wager and having a hamburger is kind of its own mixed strategy because you still might believe in God later with non-zero probability
   - Argument of a repeated game where you have multiple chances to believe in God. Eventually it will come out to true. But this isn't necessarily true either, ex: rolling a \( (n+1)^2 \) sided die on the nth trial still leads to a \( 1/2 \) chance. But then argument that if this can be taken instantly, then you continue doing the repeated game. It gets annoying but they eventually argue you should ignore this and just go to the original wager.
   - Pascal's revenge — If there is a negative infinity somewhere, then you get inf - inf which is undefined. (Hajek), didn't fully understand. Basically just saying "this creates indeterminacy"
 
 ### 03.05 Moral Objections
+
 - If you do not believe in God and try to believe in God, Pascal mentions this may corrupt you.
   - (or threaten society not believing in things fully proven)
 - Or say that God's punitive divine plan is immoral so it is just to rebel against it
 - Or Voltaire claiming wagering with God is childish (but you still have to make a decision)
 
 ### 03.06 Psychological Feasibility
+
 - May or may not be possible to change belief
 - Could also make different decisions on this at different times.
 

@@ -12,6 +12,7 @@ Unmasking AI: My Mission to Protect What Is Human in a World of Machines
 As mentioned in many other comments -- this book is primarily a memoir on Buolamwini's academic career and activism on AI ethics (race, biometric data, disability, gender, intersectionality, etc.). As a surprise memoir, this book can veer into personal stories unrelated to AI bias and sometimes become fairly repetitive. If you are already familiar with algorithmic bias, there isn't much to learn from this book; though perhaps I am suffering from the curse of knowledge since I'm an MIT undergrad in AI (and perhaps this only seems like common knowledge to me in part because of her research and efforts.)
 
 Some key takeaways:
+
 - Misclassification of people can be harmful in of itself (Ex: Calling a woman a man or not recognizing a face in a picture can be de-humanizing)
 - How one original biased face recognition algorithm can lead to more (One biased algorithm is used to detect faces from online data to form a biased dataset which then leads to another biased algorithm)
 - Facial verification (1-to-1) vs matching (1-to-many)

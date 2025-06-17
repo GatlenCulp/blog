@@ -15,6 +15,7 @@ Oprah Winfrey
 Overall pretty good book rooted in scientific evidence - doesn't really provide any new ideas, but provides a really cohesive and memorable story with powerful anecdotes and data. I was honestly a bit surprised by the quality of the book. I don't know anything about Oprah going into this but knowing that she was a popular celebrity made me hesitant to pick up this book considering many celebrities often abuse their fame and egotistically step into fields they aren't qualified to speak about. However, this is mostly a book by Dr. Perry which is bolstered by Oprah's commentary, experiences, etc.
 
 Some takeaways from the book:
+
 - ACE scores are a very rough metric that doesn't take into account a variety of things such as age of trauma or many other effects
 - "Trauma informed care" is now a buzzword
 - Trauma can affect a person's biology

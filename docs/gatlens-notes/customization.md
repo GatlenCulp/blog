@@ -3,6 +3,7 @@
 This is me going from the very top of [the guide](https://quartz.jzhao.xyz/) down to the bottom.
 
 ## 01 Core Concepts
+
 - [ ] Architecture
 - [ ] Creating your own Quartz components
 - [ ] Making your own plugins
@@ -10,11 +11,12 @@ This is me going from the very top of [the guide](https://quartz.jzhao.xyz/) dow
 - [ ] Philosophy of Quartz
 
 ## 02 Features
+
 - [ ] Backlinks
 - [ ] Breadcrumbs
 - [ ] Callouts
 - [ ] Citations
-- [X] Comments (Not to the fullest extent)
+- [x] Comments (Not to the fullest extent)
 - [ ] Darkmode
 - [ ] Docker Support
 - [ ] Explorer
@@ -38,6 +40,7 @@ This is me going from the very top of [the guide](https://quartz.jzhao.xyz/) dow
 - [ ] Wikilinks
 
 ## 03 Plugins
+
 - [ ] AliasRedirects
 - [ ] Assets
 - [ ] Citations
@@ -66,6 +69,7 @@ This is me going from the very top of [the guide](https://quartz.jzhao.xyz/) dow
 - [ ] TagPage
 
 ## 04 Setup & Configuration
+
 - [ ] Authoring Content
 - [ ] Building your Quartz
 - [ ] Configuration
@@ -77,12 +81,12 @@ This is me going from the very top of [the guide](https://quartz.jzhao.xyz/) dow
 - [ ] Setting up your GitHub repository
 - [ ] Upgrading Quartz
 
-
 `custom.scss` needs to be configured
 
 ## 05 Themes
 
 Using quartz themes you can import obsidian themes. Some I like (only looking at favs and light/dark)
+
 - Dracula-Official
 - Ayu-Mirage
 - Blue Topaz

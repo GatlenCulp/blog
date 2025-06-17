@@ -33,7 +33,7 @@ These are not easy problems: there are no known solutions to controlling an AI, 
 
 ## 02 Intellectual Stimulation
 
-Beyond the urgency, AI Security intersects with many of my intellectual passions — philosophy, socioeconomics, politics, technology, and futurism. The mysterious nature of deep learning, building machines we don't fully understand, the exploration of intelligence, consciousness, and agency are thoroughly captivating. 
+Beyond the urgency, AI Security intersects with many of my intellectual passions — philosophy, socioeconomics, politics, technology, and futurism. The mysterious nature of deep learning, building machines we don't fully understand, the exploration of intelligence, consciousness, and agency are thoroughly captivating.
 
 It seems like much of how models understand the world is fundamentally different from our own cognition, revealing that there are other valid ways of processing and interpreting reality. In my [Heuristic Beings](philosophy/heuristic-beings.md) article, I explore human perception and cognition through the perspective of data compression and limited sensory input, drawing parallels to how AI systems process information.
 
@@ -52,6 +52,5 @@ The fast-approaching reality of superintelligent AI may make other areas of stud
 AI is going to irreversibly and dramatically change humanity in the next few decades. My long-term interest is in influencing emerging general AI technology to be safe and beneficial for everyone. My short-term goals involve building up soft skills like project and team management, expanding my worldview, and developing expertise in technical fields like machine learning, cybersecurity, math, economics, and decision making.
 
 I see humanity as a child, left alone, making mistakes, and putting itself in great danger — a child that needs to survive until maturity. It would be tragic to see such a capacity for joy and love of life disappear when we humans have so many lofty dreams and hopes for the future. This is why I've dedicated myself to ensuring that our technological children enhance rather than endanger our collective journey.
-
 
 [^1]: Computerphile also put out a [great interview with one of the authors](https://youtu.be/AqJnK9Dh-eQ)

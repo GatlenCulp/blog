@@ -1,8 +1,9 @@
 # Quartz Basics
 
-
 ## Commands
+
 For working live:
+
 ```bash
 npx quartz build --serve
 ```

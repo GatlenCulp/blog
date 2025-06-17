@@ -16,4 +16,3 @@ tags:
 
 Transfer some here
 https://www.notion.so/gatlen/Vaccines-are-one-of-the-most-beneficial-technologies-humanity-has-developed-and-while-safety-concern-58045f9fb5b94c509e2611ffdff80f3e?pvs=4
-

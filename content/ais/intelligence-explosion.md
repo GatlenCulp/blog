@@ -14,7 +14,7 @@ tags:
 
 This is my most-probable single concrete way for how we get superintelligence, which, in my opinion, is via an intelligence explosion. I recognize that the more details you add, the less likely a situation becomes.
 
-I know many take-off scenarios of this type exist and my version isn't very unique but I figured it's a good exercise to do it yourself and allow others to peer review. 
+I know many take-off scenarios of this type exist and my version isn't very unique but I figured it's a good exercise to do it yourself and allow others to peer review.
 
 One story about AI takeover that I particularly like is Josh Clymer's [How AI Might Take Over in 2 Years](https://x.com/joshua_clymer/article/1887905375082656117). It's a bit long, but entertaining and in-line with scenarios I think are relatively likely.
 

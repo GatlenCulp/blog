@@ -63,6 +63,7 @@ Talk one-on-one with people in the org as the primary mechanism for feedback. In
 ## 04 Operations Philosophy
 
 Think of ops as systems engineering where you can solve problems by:
+
 1. Building tools
 2. Changing culture or expectations
 3. Designing processes
