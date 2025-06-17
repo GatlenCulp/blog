@@ -85,7 +85,10 @@ This is me going from the very top of [the guide](https://quartz.jzhao.xyz/) dow
 
 ## 05 Themes
 
-Using quartz themes you can import obsidian themes. Some I like (only looking at favs and light/dark)
+Using quartz themes you can import [obsidian themes](https://github.com/saberzero1/quartz-themes). Some I like (only looking at favs and light/dark)
+```bash
+curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME
+```
 
 - Dracula-Official
 - Ayu-Mirage
@@ -115,7 +118,7 @@ Using quartz themes you can import obsidian themes. Some I like (only looking at
 - obsidian-gruvbox
 - obsidian-nord (also really nice)
 - obsidian_ia
-- onenice (prettyy)
+- onenice (prettyy) <----- One I am using
 - ono-sendai
 - retro-windows
 - tokyo-night
