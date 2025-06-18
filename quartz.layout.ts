@@ -35,10 +35,13 @@ const explorerSortFunction = (a: FileTrieNode<ContentDetails>, b: FileTrieNode<C
 }
 
 // Explorer Config
-const explorerConfig: Options = {
+const explorerConfig: Partial<Options> = {
   title: "Content",
   sortFn: explorerSortFunction,
-  folderDefaultState: "open",
+  filterFn: (_node) => true,
+  folderClickBehavior: "link",
+  useSavedState: false,
+  folderDefaultState: "collapsed",
 }
 
 // components shared across all pages

@@ -87,7 +87,7 @@ This is me going from the very top of [the guide](https://quartz.jzhao.xyz/) dow
 
 Using quartz themes you can import [obsidian themes](https://github.com/saberzero1/quartz-themes). Some I like (only looking at favs and light/dark)
 ```bash
-curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME
+export THEME_NAME=onenice && curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME
 ```
 
 - Dracula-Official

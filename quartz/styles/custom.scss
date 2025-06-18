@@ -7,9 +7,15 @@ body[data-slug="index"] blockquote[class="callout"][data-callout="tip"] {
   width: 50%;
 }
 
-Content spacing h1 {
+// :root{
+//   font-family: "Fira Sans";
+// }
+
+
+/* Content spacing */
+h1 {
   padding-bottom: 2px;
-  margin-bottom: 2px;
+  margin-bottom: 100px;
 }
 h2 {
   padding-bottom: 2px;

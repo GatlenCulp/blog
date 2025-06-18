@@ -28,6 +28,7 @@ const config: QuartzConfig = {
         code: "Fira Code",
       },
       colors: {
+        // These don't seem to work!
         lightMode: {
           light: "#faf8f8",
           lightgray: "#e5e5e5",
@@ -88,7 +89,7 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      // Plugin.CustomOgImages(),
+      Plugin.CustomOgImages(),
     ],
   },
 }

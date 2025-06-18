@@ -1,11 +1,11 @@
-# OneNice
+# Tokyo Night
 
-- Theme: OneNice
-- Author: S.Sunhaloo - P.Roy
+- Theme: Tokyo Night
+- Author: tcmmichaelb139
 
 ## Preview
 
-[Open live preview](https://quartz-themes.github.io/onenice/)
+[Open live preview](https://quartz-themes.github.io/tokyo-night/)
 
 ## Usage
 
@@ -13,7 +13,7 @@
 
 ```yaml
 env:
-  THEME_NAME: onenice
+  THEME_NAME: tokyo-night
 ```
 
 ```yaml
@@ -26,7 +26,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh onenice
+./action.sh tokyo-night
 ```
 
 ### Manual install
