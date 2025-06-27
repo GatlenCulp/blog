@@ -10,44 +10,44 @@ tags:
   - latex
 ---
 
-I decided to try using Typst for a bit, and I wanted to share how it went after a month of heavy usage.
+After a month of heavy Typst usage, I wanted to share how it went.
 
-For those who don't know, Typst is supposed to be a replacement for LaTeX with intuitive syntax closer to Markdown and introduces programming/scripting. It's not as fully featured as LaTeX, but the syntax is very human readable and consistent, gives good error messages, has good defaults, has near-instant render times, and more. I wasn't sure if I'd write any papers in it since doing so requires my teammates using it, and I didn't know how helpful LLMs would be since it's a rarer language. I was mostly interested in it as a way to work quickly on problem sets where better math syntax, better default formatting, scripting, and live previews could be really powerful.
+For those who don't know, Typst is a LaTeX replacement with intuitive Markdown-like syntax and built-in programming/scripting. While not as fully featured as LaTeX, it has human-readable syntax, good error messages, excellent defaults, and near-instant render times. I wasn't sure about using it for papers (requires teammate buy-in) or how helpful LLMs would be with a rarer language. I was mainly interested in it for problem sets where better math syntax, default formatting, scripting, and live previews could be powerful.
 
 ## Initial Impressions
 
-I've used markdown for problem sets before and it's decent but pretty limited compared with LaTeX. Some examples of what I was able to do early on included defining functions and variables, doing arithmetic, and using styled solution, problem, and info environments.
+I've used markdown for problem sets before—it's decent but limited compared to LaTeX. With Typst, I was able to do things not possible in Markdown -- defining functions and variables, doing arithmetic, and using styled solution, problem, and info environments.
 
-So far I was really liking the math syntax compared with LaTeX -- it's more human readable, faster to write, and has fewer formatting issues. I started using a VSCode extension that renders Typst equations to unicode and inserts that into the editor.
+The math syntax is fantastic compared to LaTeX—more human readable, faster to write, with fewer formatting issues. I started using a VSCode extension that renders Typst equations to unicode in the editor.
 
-Labels and references are also much nicer. The document renders in practically real time and works better than SyncTeX for clicking on parts of the document. It brings me directly to the specific character in an equation.
+Labels and references are much nicer. The document renders in real time and works better than SyncTeX for navigation. Clicking brings me directly to the specific character in an equation.
 
-Look at this sane math: you can just use `$ x "is an instance of" y $` for having strings in math. No macros needed, but you can still use Typst's normal functions. Display vs inline is done automatically.
+The math is beautifully sane: `$ x "is an instance of" y $` puts strings in math with no macros needed, while still allowing Typst functions. Display vs inline happens automatically.
 
-You can import packages and make things in the document programmatically. They have some really nice packages as well -- definitely not to the same extent as LaTeX, but covers 99% of my use cases.
+You can import packages and programmatically generate content. They have really nice packages—not LaTeX's breadth, but covering 99% of my use cases.
 
-Of course there's diagramming, but I haven't used TikZ enough to compare with CeTZ for Typst. But the fact that it's more programmatic probably helps a ton. You can even import JSON and configure the document from that.
+There's diagramming too. I haven't used TikZ enough to compare with CeTZ for Typst, but the programmatic nature likely helps a ton. You can even import JSON to configure documents.
 
 ## After a Month of Heavy Usage
 
-**SO SO SO GOOD.** Writing math and formatting is dirt easy and intuitive. Making custom macros and functions is super easy. Everything renders instantly and debugging is a breeze. The pure quality, customizability, and flexibility with minimal work is outstanding. Things just work.
+**SO SO SO GOOD.** Writing math and formatting is dirt easy and intuitive. Custom macros and functions are simple to create. Everything renders instantly, debugging is a breeze. The quality, customizability, and flexibility with minimal work is outstanding. Things just work.
 
-I never learned TikZ for diagramming, but I learned a bit about how to use CeTZ, which is the Typst equivalent. It's really easy to use and very powerful. Since Typst already allows for scripting, procedural diagramming with for loops and calculations are also easy. (If I ever need to use TikZ, I might just make it in LaTeX, screenshot, and embed as an image.)
+I never learned TikZ but picked up CeTZ (Typst's equivalent) easily -- it's powerful and intuitive. Since Typst allows scripting, procedural diagramming with loops and calculations comes naturally. (If I need TikZ, I'll just make it in LaTeX, screenshot, and embed.)
 
-If I could use Typst as a drop-in replacement for Markdown, I'd do so. In relation to LaTeX, I'd prefer using it in 99% of cases. I personally cannot imagine many cases where LaTeX has some feature I need and cannot live without. In Typst, it's probably about as easy to implement from scratch as it is to learn whatever funky tools LaTeX has for that specific use case. (Of course LLMs change this dynamic.)
+I'd use Typst as a drop-in Markdown replacement if possible. Compared to LaTeX, I prefer it in 99% of cases. I can't imagine many LaTeX features I truly need. In Typst, implementing from scratch is often easier than learning LaTeX's specialized tools. (LLMs change this dynamic somewhat.)
 
-The VSCode extensions for writing Typst are perhaps even slightly better than the ones for LaTeX.
+The VSCode extensions are perhaps even better than LaTeX's.
 
 ## The Major Pain Point: LLM Integration
 
-My only major complaint, which is expected, is that LLMs are pretty awful at helping write Typst code and surprisingly hard to correct. The syntax looks close enough to Markdown that it will sometimes use Markdown syntax. Sometimes it confuses Typst code for LaTeX and will attempt using LaTeX macros and formatting. These happen pretty rarely and they're typically minor errors I can easily fix.
+My only major complaint: LLMs are awful at Typst code and surprisingly hard to correct. The syntax resembles Markdown enough that they'll use Markdown syntax, or they'll confuse it with LaTeX and use LaTeX macros. These errors are rare and easily fixable.
 
-I can still ask LLMs questions about how to do things, but they're pretty hit or miss. Luckily, Typst documentation -- even for third-party packages—isn't hellish like LaTeX and is pretty easy to understand. Since Typst allows for scripting, a lot of third-party packages are written in Typst, making the syntax consistent and the API rich. You'll even get Typst IntelliSense when you call functions. It'll tell you the argument types, description, usage, etc., just like when using a Python library.
+I can ask LLMs how-to questions, but they're hit-or-miss. Fortunately, Typst documentation—even for third-party packages—isn't LaTeX's hellscape and is easy to understand. Since Typst allows scripting, many packages are written in Typst itself, keeping syntax consistent and APIs rich. You get IntelliSense with function calls showing argument types, descriptions, and usage like Python libraries.
 
-**HOWEVER, LLMs writing Typst math is the ABSOLUTE worst.** It will almost always use LaTeX math and constantly mess up even if you tell it exactly where it went wrong and what changes to make. Even in agent mode where it reads linter errors, it will change nothing and go "huh that didn't work, let's try again," compiles, gets an error, and loops. I tried Cursor MDCs and various models including Claude 3.7 and o3, both with and without extended reasoning, and they all had this issue. This is so bad I've considered just importing a package that allows LLMs to write LaTeX math.
+**HOWEVER, LLMs writing Typst math is the ABSOLUTE worst.** They almost always use LaTeX math and constantly mess up even when you explain exactly what's wrong. In agent mode, they read linter errors, change nothing, say "huh that didn't work, let's try again," compile, get errors, and loop. I tried Cursor MDCs and various models (Claude 3.7, o3) with and without extended reasoning—all had this issue. It's so bad I've considered importing a package that lets LLMs write LaTeX math.
 
-This inability for LLMs to write good Typst can be a good thing if you want to rely less on LLMs. I have found it more useful to chat with LLMs and transcribe notes/solutions into Typst myself.
+This LLM limitation can be good if you want to rely less on AI. I find it more useful to chat with LLMs and manually transcribe notes/solutions into Typst.
 
 ## Final Thoughts
 
-Despite the LLM integration challenges, Typst has become my go-to tool for mathematical typesetting. The combination of intuitive syntax, instant rendering, and powerful scripting capabilities makes it a joy to use for problem sets and mathematical documents. While LaTeX still has its place for collaborative work and specific use cases, Typst offers a refreshingly modern approach to document preparation that I highly recommend trying.
+Despite LLM integration challenges, Typst has become my go-to for typesetting, mathematical and otherwise. The combination of intuitive syntax, instant rendering, and powerful scripting makes it a joy for problem sets and mathematical documents. While LaTeX still has its place for collaboration and specific use cases, Typst offers a refreshingly modern approach I highly recommend trying.
